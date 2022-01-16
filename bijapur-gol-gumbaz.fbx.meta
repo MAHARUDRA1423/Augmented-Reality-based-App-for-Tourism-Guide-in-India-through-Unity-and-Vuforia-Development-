@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: b962b8da741e28947bb9ea6ec1f38b3e
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: 48785a71f9da6be4984f6049a17579a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Google_Earth_Snapshot3
+    second: {fileID: 2100000, guid: 1804b6318ae7cfa4395430c87565e28c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bijapur_gol_gumbaz_001
+    second: {fileID: 2100000, guid: 6268e750c1304f449bee382cb24487c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bijapur_gol_gumbaz_001_1
+    second: {fileID: 2100000, guid: 288b8ee1689ebcf48a3aa1fe093442a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bijapur_gol_gumbaz_002
+    second: {fileID: 2100000, guid: e1de57eb3f3884149a37ff1bd6424b67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bijapur_gol_gumbaz_003
+    second: {fileID: 2100000, guid: 91bf16879fa295644a6e2ec2f67caee2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bijapur_gol_gumbaz_004
+    second: {fileID: 2100000, guid: 1a42566ddce376d43a9b47707dbcf558, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bijapur_gol_gumbaz_005
+    second: {fileID: 2100000, guid: 485ebf7aaf13fe94492fc6db195597a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bijapur_gol_gumbaz_006
+    second: {fileID: 2100000, guid: 2ddd46191c8920e46b18e897c38b6397, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bijapur_gol_gumbaz_007
+    second: {fileID: 2100000, guid: 8e4f6d2d064120945adad043b1783cf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bijapur_gol_gumbaz_008
+    second: {fileID: 2100000, guid: 64d700483b9794b4ea868a3868b7c514, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bijapur_gol_gumbaz_009_png
+    second: {fileID: 2100000, guid: 51c78d0902dbb5e429ad3ec31532f404, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bijapur_gol_gumbaz_010
+    second: {fileID: 2100000, guid: 95d90e520ea8fc74d8ce9395f43b8637, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bijapur_gol_gumbaz_011
+    second: {fileID: 2100000, guid: dc5255a291827ed41ae0895820e4de44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bijapur_gol_gumbaz_012
+    second: {fileID: 2100000, guid: 6f5f00e0230e4f24eb0040206f8f0e10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bijapur_gol_gumbaz_013
+    second: {fileID: 2100000, guid: 839bf08e635917a4a96c34b383dc9ff5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bijapur_gol_gumbaz_014
+    second: {fileID: 2100000, guid: 438e665819188fc47ae1b691f885d553, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bijapur_gol_gumbaz_015
+    second: {fileID: 2100000, guid: bdc4788bb7f6d524195ada07568d8de6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bijapur_gol_gumbaz_016
+    second: {fileID: 2100000, guid: 484b02275b1048b4b99bdf89f42ef3ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bijapur_gol_gumbaz_017
+    second: {fileID: 2100000, guid: 687447a6a1a74c34e997f8d0d91b183c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bijapur_gol_gumbaz_018
+    second: {fileID: 2100000, guid: f8a3cc8fe4174fd4d8feb975cfcc6e18, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
